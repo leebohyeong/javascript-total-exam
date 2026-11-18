@@ -5,7 +5,9 @@ const bestText = document.querySelector('.best');
 const message = document.querySelector('.message');
 const btnRestart = document.querySelector('.restart');
 
-const emojis = ['🍎', '🍌', '🍇', '🍓', '🍒', '🥝', '🍑', '🍍'];
+// const emojis = ['🍎', '🍌', '🍇', '🍓', '🍒', '🥝', '🍑', '🍍'];
+const emojis = ['🍕', '🍔', '🍜', '🍧', '🍰', '🍭', '🍫', '🍿'];
+      
 
 const makeCards = () => [...emojis, ...emojis];
 

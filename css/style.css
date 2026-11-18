@@ -41,7 +41,7 @@ h1 {
 }
 
 .status strong {
-    color: #e8743b;
+    color: skyblue;
     font-size: 18px;
 }
 
@@ -73,13 +73,13 @@ h1 {
 }
 
 .card .front {
-    background-color: #e8743b;
+    background-color: skyblue;
     color: #fff;
     font-weight: bold;
 }
 
 .card .back {
-    border: 3px solid #e8743b;
+    border: 3px solid skyblue;
     background-color: #fff;
     transform: rotateY(180deg);
 }
@@ -93,8 +93,8 @@ h1 {
 }
 
 .card.matched .back {
-    background-color: #b8e9ab;
-    border-color: #4caf50
+    background-color: #ffd9a4;
+    border-color: #FFFCF7;
 }
 
 .message {
@@ -113,7 +113,7 @@ h1 {
 }
 
 .restart:hover {
-    background-color: #e8743b;
+    background-color: skyblue;
 }
 
 
